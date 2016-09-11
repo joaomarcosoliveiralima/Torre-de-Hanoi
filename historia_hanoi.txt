@@ -1,0 +1,24 @@
+   A torre de Hanoi, tambem conhecida por torre de bramanismo ou quebra-cabecas do
+fim do mundo, foi inventada e vendida como brinquedo, no ano de 1883,
+pelo matematico frances Edouard Lucas.
+Segundo ele, o jogo que era popular na China e no Japao veio do Vietna.
+  O matematico foi inspirado por uma lenda Hindu, a qual falava de um 
+templo em Benares,cidade Santa da India, onde existia uma torre sagrada do
+bramanismo,cuja funcao era melhorar a disciplina mental dos jovens monges.
+De acordo com a lenda, no grande templo de Benares,debaixo da cupula que marca 
+o centro do mundo, ha uma placa de bronze sobre a qual estao fixadas tres
+hastes de diamante. 
+  Em uma dessas hastes, o deus Brama, no momento da criacao do mundo, 
+colocou 64 discos de ouro puro, de forma que o disco maior ficasse sobre
+a placa de bronze e os outros decrescendo ate chegar ao topo.
+  A atribuicao que os monges receberam foi de transferir a torre formada
+pelos discos, de uma haste para outra, usando a terceira 
+como auxiliar com as restricoes de movimentar um disco por vez e de nunca 
+colocar um disco maior sobre um menor. Os monges deveriam trabalhar 
+com eficiencia noite e dia e,quando terminassem o trabalho, 
+o templo seria transformado em po e o mundo acabaria. 
+  O desaparecimento do mundo pode ser discutido mas nao ha duvida 
+quanto ao desmoronamento do templo.
+  E interessante observar que o numero minimo de "movimentos" para conseguir
+transferir todos os discos da primeira estaca a terceira e 2^n-1,
+sendo n o numero de discos.
